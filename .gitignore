@@ -1,1 +1,5 @@
-.ipy_checkpoints
+### VS Code ###
+.vscode/
+
+## Jupyter
+.ipynb_checkpoints/
